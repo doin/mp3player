@@ -1,0 +1,31 @@
+{
+  "family": "arale",
+  "name": "mp3player",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/doin/mp3player",
+  "author": "hansheng.sl",
+  "maintainers": [
+    "hansheng.sl"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doin/mp3player.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "mp3player.js",
+      "mp3player.css"
+    ],
+    "alias": {
+        "$": "$"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
